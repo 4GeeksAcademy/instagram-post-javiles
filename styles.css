@@ -1,0 +1,70 @@
+body{
+background-color: gray;
+margin: 5px;
+
+}
+
+.header{
+    display: flex;
+}
+.fa-html5{
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+.wrap{
+background-color: white;
+width: 500px;
+margin: auto;
+}
+
+.header p{
+   margin-top: 10px;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.header .header-title:first-child{
+    display: inline-block;
+}
+.fa-solid{
+    float: right;
+    width: 20px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.user{
+    display: inline-block;
+    width: 400px;
+   
+}
+.fa-brands{
+    width: 20px;
+    margin: 20px 5px; 
+    
+}
+
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.right-icon{
+    margin-right: 10px;
+}
+.left-icons{
+    margin-left: 10px;
+}
+
+.lower-p{
+    margin: 10px;
+    padding-bottom: 10px;
+}
+.lower-p p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
